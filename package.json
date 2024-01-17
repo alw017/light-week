@@ -1,0 +1,14 @@
+{
+  "name": "notion-example",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@notionhq/client": "^1.0.1",
+    "date-fns": "^2.29.3",
+    "limiter": "^2.1.0",
+    "limiter-es6-compat": "^2.1.2",
+    "minimist": "^1.2.8"
+  }
+}
